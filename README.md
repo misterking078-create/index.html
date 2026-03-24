@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
-    <meta name="theme-color" content="#0a0f1c">
-    <title>EarnMaster Calculator | Smart Ad-Ready App</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            user-select: none; /* prevents text selection on double tap, keeps app-like feel */
-        }
-
-        body {
-            background: linear-gradient(145deg, #10131c 0%, #1a1f2e 100%);
-            min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-family: 'Segoe UI', 'Poppins', 'Inter', system-ui, -apple-system, 'Roboto', sans-serif;
             padding: 1rem;
         }
 
